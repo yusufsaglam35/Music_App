@@ -1,0 +1,75 @@
+[
+    {
+      "id": 0,
+      "artist": "Sefo",
+      "title": "Bilmem mi?",
+      "year": 2020,
+      "is_favorite": false,
+      "imageUrl": "https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-15/277958719_3125731284368336_362723938898219925_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=yBlsAlSgff4AX86ZE2a&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjgxMTE1Mzc4OTMyNTAxOTg0Mw%3D%3D.2-ccb7-5&oh=00_AT-KlQ6rICIVJ4iThUtvWN_QJl35VMDNdjUuSbATxS59SQ&oe=629BF2CB&_nc_sid=30a2ef"
+    },
+    {
+      "id": 1,
+      "artist": "Ezhel",
+      "title": "Felaket",
+      "year": 2022,
+      "is_favorite": false,
+      "imageUrl": "https://static.coindesk.com/wp-content/uploads/2020/10/GettyImages-alex-wong-1-1024x628.jpg"
+    },
+    {
+      "id": 2,
+      "artist": "Ceg",
+      "title": "Bu Gece",
+      "year": 2019,
+      "is_favorite": true,
+      "imageUrl": "https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-15/138336030_2946853195567939_1367245775753742757_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=g8JLsYuQTKUAX-D6RMy&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjQ4NjYwOTA5NjA5Njk2NTkxNw%3D%3D.2-ccb7-5&oh=00_AT-5nbKWQYMrAZZh26FDcQO8vEwcc3O8uILwuJZkX-dNKg&oe=629BE098&_nc_sid=30a2ef"
+    },
+    {
+      "id": 3,
+      "artist": "Elanur",
+      "title": "Bela",
+      "year": 2000,
+      "is_favorite": false,
+      "imageUrl": "https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-15/266961359_1060008077901852_1659217784605179242_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Z8oqsFDjQ40AX9NC4R9&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjcyODYyMzA3MDY5NDM0MTczNA%3D%3D.2-ccb7-5&oh=00_AT_aaMFOwCoDr0aqKFa-NqAZg3dDoWj5M5RFh-bHrVUOwA&oe=629B1144&_nc_sid=30a2ef"
+    },
+    {
+      "id": 4,
+      "artist": "Stabil",
+      "title": "Ben Kimim",
+      "year": 2020,
+      "is_favorite": true,
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/105737636-1550147305726gettyimages-1034802076rr.jpg?v=1601647142"
+    },
+    {
+      "id": 5,
+      "artist": "Ezhel",
+      "title": "Felaket",
+      "year": 2022,
+      "is_favorite": false,
+      "imageUrl": "https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-15/210479781_254413679348891_6884703601267366645_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=djw9ilwhELsAX-7j7qk&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjYxMDkyNTQ0ODQxMDg0MDA2OQ%3D%3D.2-ccb7-5&oh=00_AT-KVUg7Xj4SPz-ogto5elBSRnLUfP77YZWOisc4dWN7GA&oe=629B3895&_nc_sid=30a2ef"
+    },
+    {
+      "id": 6,
+      "artist": "Ceg",
+      "title": "Bu Gece",
+      "year": 2019,
+      "is_favorite": false,
+      "imageUrl": "https://blog.malwarebytes.com/wp-content/uploads/2020/09/shutterstock_640824457-600x410.jpg"
+    },
+    {
+      "id": 7,
+      "artist": "Elanur",
+      "title": "Bela",
+      "year": 2000,
+      "is_favorite": false,
+      "imageUrl": "https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-15/266961359_1060008077901852_1659217784605179242_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Z8oqsFDjQ40AX9NC4R9&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjcyODYyMzA3MDY5NDM0MTczNA%3D%3D.2-ccb7-5&oh=00_AT_aaMFOwCoDr0aqKFa-NqAZg3dDoWj5M5RFh-bHrVUOwA&oe=629B1144&_nc_sid=30a2ef"
+    },
+    {
+      "id": 8,
+      "artist": "Kurtuş Kuş",
+      "title": "Rüya",
+      "year": 2020,
+      "is_favorite": true,
+      "imageUrl": "https://instagram.fist13-1.fna.fbcdn.net/v/t51.2885-15/274540220_646728976575345_4825180312318608838_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fist13-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=2E-RWMnGVh8AX9TXP13&tn=MwKnSEExYWwBkeCN&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjc3OTQ0MDUxMzU1MDQyMDY4MQ%3D%3D.2-ccb7-5&oh=00_AT8eCCssnKvpkQZMZr573c285l0HBsT7NLsEWrMAKUpXIg&oe=629CB3EF&_nc_sid=30a2ef"
+    }
+  ]
+  
