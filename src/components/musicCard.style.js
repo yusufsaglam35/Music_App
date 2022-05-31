@@ -12,6 +12,7 @@ export default StyleSheet.create({
     },
     content_container: {
         flexDirection: 'row',
+      
     },
     inner_container: {
         padding: 20,

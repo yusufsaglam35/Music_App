@@ -10,6 +10,7 @@ const musiccard = (props) => {
 
             <View style={styles.inner_container}>
                 <Text style={styles.title}>{props.song.title}</Text>
+                
                 <View style={styles.content_container}>
                     <View style={styles.info_container}>
                         <Text style={styles.artist}>{props.song.artist}</Text>
