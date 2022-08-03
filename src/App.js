@@ -1,4 +1,4 @@
-import { StyleSheet, View, FlatList } from 'react-native'
+import { StyleSheet, View, FlatList,SafeAreaView} from 'react-native'
 import React, { useState } from 'react'
 import musicData from './music.json';
 import MusicComponent from './components/musicCard';
@@ -24,7 +24,7 @@ const App = () =>  {
   }
 
     return (
-      <View>
+      <SafeAreaView>
         <Text_Input Search_Box ={handle_Seach}/>
       <FlatList
        keyExtractor={item => item.id}
@@ -33,7 +33,7 @@ const App = () =>  {
        ItemSeparatorComponent={Itemseperator}
         
         />
-      </View>
+      </SafeAreaView>
     )
   
 }
